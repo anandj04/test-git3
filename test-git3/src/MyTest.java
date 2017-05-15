@@ -2,7 +2,7 @@
 public class MyTest {
 
 	public static void main(String[] args) {
-		System.out.println("go to hell");
+		System.out.println("go to hell-123");
 	}
 
 }
